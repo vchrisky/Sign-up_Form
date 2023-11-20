@@ -99,9 +99,9 @@ input{
     box-shadow: 1px 3px 5px;
 }
 
-.form-row input:invalid{
+/* .form-row input:invalid{
     outline: 2px solid red;
-}
+} */
 
 button{
     color: #ffffff;
